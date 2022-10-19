@@ -1,4 +1,4 @@
-# Learning-pay-yookassa-
+# Learning pay yookassa
 Обучение подключения платёжной системы yookassa (Умный платеж)
 Умный платеж
 Самый простой способ интеграции с ЮKassa. 
